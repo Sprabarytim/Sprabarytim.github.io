@@ -1,0 +1,40 @@
+html{
+    font-family: cursive;
+}
+body{
+    background-color:papayawhip;
+    color: black;
+    margin-left: 2%;
+    margin-top: 2%;
+
+}
+
+.contact{
+    font-size: small;
+}
+
+.section{
+    border-top: solid 4px black;
+    border-bottom: solid 4px black;
+    border-width: 50%;
+    text-align: center;
+}
+
+h4{
+    text-transform: uppercase;
+}
+
+.email:hover{
+    color: purple;
+
+
+}
+
+h1{
+    border-bottom: solid 5px black;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
