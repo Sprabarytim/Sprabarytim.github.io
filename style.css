@@ -1,19 +1,19 @@
 html{
     font-family: cursive;
 }
+
 body{
     background-color:papayawhip;
     color: black;
     margin-left: 2%;
     margin-top: 2%;
-
 }
 
 img{
-    width: 100px;
-    height: 100px;    
     float: right;
-    margin-right: 0px, 50px, 0px, 0px;
+    height: 1050px;
+    border-radius: 15%;
+    margin-top: 15px;
 }
 
 .contact{
@@ -33,8 +33,6 @@ h4{
 
 .email:hover{
     color: purple;
-
-
 }
 
 h1{
